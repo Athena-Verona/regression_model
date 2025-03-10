@@ -1,0 +1,6 @@
+# About
+This is a final project for the course "Introduction to Machine Learning", done in Python. It tought me how to curate a dataset, tune a machine learning model and validate it using MSE and R values.
+### Introduction
+Most people nowadays listen to their favorite songs using streaming services such as Spotify, Apple Music or Youtube. This amounts to a magnitude of data produced by users listening activities. Songs themselves can be analyzed by their tangible characteristics, such as tempo, key or duration. Going even further, Spotify introduced a tool for analyzing more subjective metrics, such as song "danceability", " liveness" or "acousticness". This data about specific tracks, combined with their user interaction metrics, can be useful in order to predict why some tracks get more streams. This could be useful to new artists planning to publish their songs to Youtube or Spotify in order to know where to shift their focus: getting most comments, shares, likes or even writing songs in specific tempos. 
+### Research question
+This project's aim is to find whether the **popularity of tracks on Youtube is correlated to any song-defining characteristics from Spotify or user interaction metrics on Youtube**. After finding out which factor most influences stream counts, I hope to build a model for predicting high streams.
